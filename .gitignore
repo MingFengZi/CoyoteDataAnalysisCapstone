@@ -1,0 +1,6 @@
+# Large files
+Oldies
+2010UrbanCensus/
+raw_data/shapefiles/2020UrbanCensus/*.shp
+Coyotes/*.zip
+*.twbx
